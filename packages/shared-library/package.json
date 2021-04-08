@@ -1,0 +1,9 @@
+{
+  "name": "@fio/shared-library",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.1" 
+  }
+}
